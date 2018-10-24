@@ -12,6 +12,6 @@ spring:
   datasource: 
     type: com.alibaba.druid.pool.DruidDataSource
     platform: mysql
-    url: jdbc:mysql://10.0.0.4:3306/eshop
+    url: jdbc:mysql://10.0.0.4:3306/ehotel
     username: test
     password: test123
